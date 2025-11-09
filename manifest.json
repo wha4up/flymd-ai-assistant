@@ -1,0 +1,10 @@
+{
+  "id": "ai-assistant",
+  "name": "AI助手",
+  "version": "1.0.0",
+  "author": "wha4up <30365126+wha4up@users.noreply.github.com>",
+  "description": "这是一个 AI 助手扩展，可辅助文档编辑",
+  "main": "main.js",
+  "homepage": "https://github.com/wha4up/flymd-ai-assistant",
+  "repository": "https://github.com/wha4up/flymd-ai-assistant"
+}
